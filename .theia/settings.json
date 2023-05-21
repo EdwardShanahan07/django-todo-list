@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/home/codeany/.pyenv/versions/3.8.12/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
